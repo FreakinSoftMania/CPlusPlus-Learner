@@ -24,3 +24,4 @@ jobs:
     - name: Build .exe
       working-directory: ./
       run: gcc source.cpp -o output.exe
+      
